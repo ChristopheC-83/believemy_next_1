@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.flexMid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
